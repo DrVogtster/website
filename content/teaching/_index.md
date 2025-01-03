@@ -1,26 +1,3 @@
-<!-- ---
-title: Teaching
-summary: My courses
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
---- -->
 ---
 title: ""
 date: 2022-10-24
@@ -36,11 +13,15 @@ sections:
       title: '📚 Course Syllabus'
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Show a call-to-action button under your biography? (optional)
+      username: admin
+      text: ""
       button:
         text: Download Syllabus
         url: uploads/syllabus
  - block: markdown
     content:
+     username: admin
+      text: ""
       title: '📚 Course Github'
       # Choose a user profile to display (a folder name within `content/authors/`)
       # Show a call-to-action button under your biography? (optional)
