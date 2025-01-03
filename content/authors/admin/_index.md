@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Ryan Vogt
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Ryan Vote
 
 # Full name (for SEO)
 first_name: Dr. Ryan
@@ -46,9 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1485-9735
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Computing
+  - Quantum Algorithms (Quantum Machine Learning, Quantum Optimization, Numerical Methods Leveraging Quantum Computers)
+  - Partial-Differential Equations
+  - Numerical Analysis
+  - Finite And Infinite Dimensional Optimization Theory
+  - Being Awesome
 
 education:
   - area: PhD Applied Mathematics
@@ -60,18 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.proquest.com/openview/4fde797ea36de59677a5ef0329db4eab/1?pq-origsite=gscholar&cbl=18750&diss=y'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Applied Mathematics and Computer Science
+  - area: BS Applied Mathematics and Computer Science
     institution: Rochester Institute of Technology
     date_start: 2013-08-01
     date_end: 2015-07-01
@@ -143,8 +135,6 @@ work:
 languages:
   - name: English
     percent: 100
-  - name: Meme
-    percent: 150
 
 # Awards.
 #   Add/remove as many awards below as you like.
