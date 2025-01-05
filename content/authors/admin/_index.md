@@ -46,6 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1485-9735
 interests:
+  - Classical and Quantum Electrodynamics
   - Quantum Computing
   - Quantum Algorithms (Quantum Machine Learning, Quantum Optimization, Numerical Methods Leveraging Quantum Computers)
   - Partial-Differential Equations
