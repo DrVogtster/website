@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/DrVogtster
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ryan-vogt-56775ab1
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ngti_eEAAAAJ&hl=en
   - icon: academicons/orcid
